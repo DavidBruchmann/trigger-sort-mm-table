@@ -1,0 +1,14 @@
+plugin.tx_btp_team {
+    view {
+        # cat=plugin.tx_btp_team/file; type=string; label=Path to template root (FE)
+        templateRootPath = EXT:btp/Resources/Private/Templates/
+        # cat=plugin.tx_btp_team/file; type=string; label=Path to template partials (FE)
+        partialRootPath = EXT:btp/Resources/Private/Partials/
+        # cat=plugin.tx_btp_team/file; type=string; label=Path to template layouts (FE)
+        layoutRootPath = EXT:btp/Resources/Private/Layouts/
+    }
+    persistence {
+        # cat=plugin.tx_btp_team//a; type=string; label=Default storage PID
+        storagePid =
+    }
+}

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="EXT:btp/Resources/Private/Language/locallang.xlf" date="2022-05-08T04:21:14Z" product-name="btp">
+		<header/>
+		<body>
+			<trans-unit id="tx_btp_domain_model_team" resname="tx_btp_domain_model_team">
+				<source>Team</source>
+			</trans-unit>
+			<trans-unit id="tx_btp_domain_model_team.name" resname="tx_btp_domain_model_team.name">
+				<source>Name</source>
+			</trans-unit>
+			<trans-unit id="tx_btp_domain_model_team.expertise" resname="tx_btp_domain_model_team.expertise">
+				<source>Expertise</source>
+			</trans-unit>
+			<trans-unit id="tx_btp_domain_model_expertise" resname="tx_btp_domain_model_expertise">
+				<source>Expertise</source>
+			</trans-unit>
+			<trans-unit id="tx_btp_domain_model_expertise.title" resname="tx_btp_domain_model_expertise.title">
+				<source>Title</source>
+			</trans-unit>
+			<trans-unit id="tx_btp_domain_model_expertise.team" resname="tx_btp_domain_model_expertise.team">
+				<source>Team</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

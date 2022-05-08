@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="EXT:btp/Resources/Private/Language/locallang_csh_tx_btp_domain_model_team.xlf" date="2022-05-08T04:21:14Z" product-name="btp">
+		<header/>
+		<body>
+			<trans-unit id="name.description" resname="name.description">
+				<source>name</source>
+			</trans-unit>
+			<trans-unit id="expertise.description" resname="expertise.description">
+				<source>expertise</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>
