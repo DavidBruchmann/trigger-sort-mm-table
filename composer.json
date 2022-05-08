@@ -1,7 +1,7 @@
 {
     "name": "wdb/trigger-sort-mm-table",
     "type": "typo3-cms-extension",
-    "description": "See [TYPO3 bidirectional m:n relation sorting](https://stackoverflow.com/a/72135267/1019850)",
+    "description": "This TYPO3 extension includes most relevant TCA configuration to demonstrate and test a MySQL-Trigger.",
     "authors": [
         {
             "name": "David Bruchmann",
